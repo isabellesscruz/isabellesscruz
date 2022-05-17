@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my graduation
+- 🔭 I’m currently working on my graduation on Computer Science
 - 🌱 I’m currently learning html, javascript and css
+- :book: I'm very good with C/C++ and Python
 - 👯 I’m looking to collaborate on web
 - 🤔 I’m looking for help with anything you want me know
 - 💬 Ask me about games
