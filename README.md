@@ -10,4 +10,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love cats
 
-[![Castelobruxo](https://github-readme-stats.vercel.app/api/pin/?username=isabellesscruz&repo=castelobruxo)](https://github.com/isabellesscruz/castelobruxo)
+
