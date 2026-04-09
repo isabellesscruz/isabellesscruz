@@ -21,10 +21,10 @@ UX/UI Designer + Fullstack Developer building things that actually make sense (a
 - UX that drives engagement, clarity and retention  
 
 ### 🛠️ tech & tools
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, C/C++  
+- **Frontend:** HTML, CSS, JavaScript , ReactJs 
+- **Backend:** Python, C/C++, NodeJs  
 - **Design:** Figma  
-- **Other:** UX strategy, product thinking, numerical methods  
+- **Other:** UX strategy, product thinking 
 
 ### 💡 a bit more about me
 - I turn complex systems into intuitive experiences  
