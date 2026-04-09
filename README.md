@@ -11,7 +11,7 @@ UX/UI Designer + Fullstack Developer building things that actually make sense (a
 
 ### 🎓 academic work
 - Master’s in Computational Modeling  
-- Research focused on numerical methods for partial differential equations  
+- Research focused usability in Virtual Reality
 - Experience with Crank–Nicolson method (1D) and iterative approaches  
 - Strong background in scientific computing and problem solving  
 
